@@ -1,0 +1,14 @@
+{
+  "name": "pdf-tools",
+  "version": "1.0.0",
+  "description": "Scripts to mess with PDFs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Lynch (adi_ady_ade@hotmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "scissors": "^0.1.0"
+  }
+}
