@@ -9,6 +9,6 @@
   "author": "Adrian Lynch (adi_ady_ade@hotmail.com)",
   "license": "MIT",
   "dependencies": {
-    "scissors": "^0.1.0"
+    "scissors": "^0.2.0"
   }
 }
